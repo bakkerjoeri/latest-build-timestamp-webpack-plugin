@@ -1,0 +1,19 @@
+{
+    "name": "latest-build-timestamp-webpack-plugin",
+    "version": "1.0.0",
+    "author": {
+        "name": "Joeri Bakker",
+        "email": "bakkerjoeri@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:joeribakker/latest-build-timestamp-webpack-plugin.git"
+    },
+    "main": "LatestBuildTimestamp.js",
+    "keywords": [
+        "webpack",
+        "plugin",
+        "timestamp"
+    ],
+    "license": "MIT"
+}
