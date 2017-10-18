@@ -1,5 +1,5 @@
-# Latest build plugin
-Log the timestamp of your latest build after it is finished.
+# Latest build timestamp plugin
+Log the timestamp at which the build process ended.
 
 After completing a build from your terminal, it will output the timestamp at which the build process ended:
 ```

@@ -1,6 +1,7 @@
 {
     "name": "latest-build-timestamp-webpack-plugin",
     "version": "1.0.0",
+    "description": "Log the timestamp at which the build process ended.",
     "author": {
         "name": "Joeri Bakker",
         "email": "bakkerjoeri@gmail.com"
